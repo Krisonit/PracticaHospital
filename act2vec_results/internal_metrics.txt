@@ -1,0 +1,13 @@
+=== Train Internal Metrics ===
+silhouette: 0.8643046021461487
+calinski_harabasz: 19672.57294642471
+davies_bouldin: 0.1789357892182764
+n_clusters: 4
+noise_percent: 0.0
+
+=== Test Internal Metrics ===
+silhouette: 0.8261936902999878
+calinski_harabasz: 1649.731578991239
+davies_bouldin: 0.21507533589879393
+n_clusters: 3
+noise_percent: 0.0

@@ -1,0 +1,7 @@
+,patient,patient,patient,patient,patient,patient,patient,patient,patient,patient,patient,patient,patient,patient,patient,patient
+sequence,Blood test->Physical test,Blood test->Second consult,Blood test->X-ray scan,First consult->Blood test,First consult->Physical test,First consult->X-ray scan,Medicine->Final consult,Physical test->Blood test,Physical test->Second consult,Physical test->X-ray scan,Second consult->Medicine,Second consult->Surgery,Surgery->Final consult,X-ray scan->Blood test,X-ray scan->Physical test,X-ray scan->Second consult
+cluster,,,,,,,,,,,,,,,,
+0,3.0,20.0,7.0,0.0,15.0,15.0,30.0,19.0,3.0,8.0,30.0,0.0,0.0,11.0,12.0,7.0
+1,7.0,4.0,4.0,4.0,6.0,5.0,0.0,8.0,4.0,3.0,0.0,15.0,15.0,3.0,2.0,7.0
+2,2.0,2.0,0.0,2.0,2.0,0.0,4.0,2.0,2.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+3,10.0,0.0,11.0,21.0,0.0,0.0,21.0,0.0,11.0,10.0,21.0,0.0,0.0,0.0,11.0,10.0
