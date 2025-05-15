@@ -1,0 +1,772 @@
+2025-05-09 05:10:04,454 - __main__ - INFO - === Начало обработки данных ===
+2025-05-09 05:10:04,455 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-09 05:10:04,455 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-09 05:10:04,455 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-09 05:10:04,460 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-09 05:10:04,460 - __main__ - INFO - Начало валидации данных
+2025-05-09 05:10:04,460 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-09 05:10:04,468 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-09 05:10:04,474 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-09 05:10:04,474 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-09 05:10:05,205 - __main__ - INFO - Визуализация данных сохранена
+2025-05-09 05:10:05,209 - __main__ - INFO - Начало извлечения трасс
+2025-05-09 05:10:05,214 - __main__ - INFO - Создано 100 трасс
+2025-05-09 05:10:05,274 - __main__ - INFO - Успешно создано 100 трасс
+2025-05-09 05:10:05,278 - __main__ - INFO - Данные успешно сохранены в data/prepared_data.csv
+2025-05-09 05:10:05,278 - __main__ - INFO - 
+Статистика обработанных данных:
+2025-05-09 05:10:05,279 - __main__ - INFO - - Всего пациентов: 100
+2025-05-09 05:10:05,279 - __main__ - INFO - - Средняя длина трассы: 6.9 действий
+2025-05-09 05:10:05,280 - __main__ - INFO - - Средняя продолжительность: 9.6 дней
+2025-05-09 05:10:05,280 - __main__ - INFO - Обработка завершена успешно!
+2025-05-09 15:23:10,017 - __main__ - INFO - === Начало обработки данных ===
+2025-05-09 15:23:10,017 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-09 15:23:10,018 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-09 15:23:10,018 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-09 15:23:10,023 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-09 15:23:10,024 - __main__ - INFO - Начало валидации данных
+2025-05-09 15:23:10,024 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-09 15:23:10,033 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-09 15:23:10,037 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-09 15:23:10,037 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-09 15:23:10,758 - __main__ - INFO - Визуализация данных сохранена
+2025-05-09 15:23:10,766 - __main__ - INFO - Начало извлечения трасс
+2025-05-09 15:23:10,774 - __main__ - INFO - Создано 100 трасс
+2025-05-09 15:23:10,837 - __main__ - INFO - Успешно создано 100 трасс
+2025-05-09 15:23:10,841 - __main__ - INFO - Данные успешно сохранены в data/prepared_data.csv
+2025-05-09 15:23:10,841 - __main__ - INFO - 
+Статистика обработанных данных:
+2025-05-09 15:23:10,842 - __main__ - INFO - - Всего пациентов: 100
+2025-05-09 15:23:10,842 - __main__ - INFO - - Средняя длина трассы: 6.9 действий
+2025-05-09 15:23:10,843 - __main__ - INFO - - Средняя продолжительность: 9.6 дней
+2025-05-09 15:23:10,843 - __main__ - INFO - Обработка завершена успешно!
+2025-05-09 15:43:45,695 - __main__ - INFO - === Начало обработки данных ===
+2025-05-09 15:43:45,696 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-09 15:43:45,696 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-09 15:43:45,696 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-09 15:43:45,700 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-09 15:43:45,701 - __main__ - INFO - Начало валидации данных
+2025-05-09 15:43:45,701 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-09 15:43:45,710 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-09 15:43:45,714 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-09 15:43:45,715 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-09 15:43:46,428 - __main__ - INFO - Визуализация данных сохранена
+2025-05-09 15:43:46,434 - __main__ - INFO - Начало извлечения трасс
+2025-05-09 15:43:46,441 - __main__ - INFO - Создано 100 трасс
+2025-05-09 15:43:46,499 - __main__ - INFO - Успешно создано 100 трасс
+2025-05-09 15:43:46,503 - __main__ - INFO - Данные успешно сохранены в data/prepared_data.csv
+2025-05-09 15:43:46,503 - __main__ - INFO - 
+Статистика обработанных данных:
+2025-05-09 15:43:46,503 - __main__ - INFO - - Всего пациентов: 100
+2025-05-09 15:43:46,504 - __main__ - INFO - - Средняя длина трассы: 6.9 действий
+2025-05-09 15:43:46,505 - __main__ - INFO - - Средняя продолжительность: 9.6 дней
+2025-05-09 15:43:46,505 - __main__ - INFO - Обработка завершена успешно!
+2025-05-10 15:14:07,306 - __main__ - INFO - === Начало обработки данных ===
+2025-05-10 15:14:07,306 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-10 15:14:07,306 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-10 15:14:07,306 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-10 15:14:07,312 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-10 15:14:07,312 - __main__ - INFO - Начало валидации данных
+2025-05-10 15:14:07,313 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-10 15:14:07,321 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-10 15:14:07,323 - __main__ - ERROR - Ошибка загрузки данных: clean_action() takes 0 positional arguments but 1 was given
+2025-05-10 15:14:07,323 - __main__ - CRITICAL - Критическая ошибка: clean_action() takes 0 positional arguments but 1 was given
+Traceback (most recent call last):
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 234, in <module>
+    raw_df = load_and_clean_data(args.input)
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 203, in load_and_clean_data
+    df = validate_raw_data(df)
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 57, in validate_raw_data
+    df['action'] = df['action'].apply(clean_action)
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\series.py", line 4924, in apply
+    ).apply()
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 1427, in apply
+    return self.apply_standard()
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 1507, in apply_standard
+    mapped = obj._map_values(
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\base.py", line 921, in _map_values
+    return algorithms.map_array(arr, mapper, na_action=na_action, convert=convert)
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\algorithms.py", line 1743, in map_array
+    return lib.map_infer(values, mapper, convert=convert)
+  File "lib.pyx", line 2972, in pandas._libs.lib.map_infer
+TypeError: clean_action() takes 0 positional arguments but 1 was given
+2025-05-10 15:15:05,461 - __main__ - INFO - === Начало обработки данных ===
+2025-05-10 15:15:05,461 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-10 15:15:05,462 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-10 15:15:05,462 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-10 15:15:05,467 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-10 15:15:05,467 - __main__ - INFO - Начало валидации данных
+2025-05-10 15:15:05,468 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-10 15:15:05,477 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-10 15:15:05,479 - __main__ - ERROR - Ошибка загрузки данных: clean_action() takes 0 positional arguments but 1 was given
+2025-05-10 15:15:05,479 - __main__ - CRITICAL - Критическая ошибка: clean_action() takes 0 positional arguments but 1 was given
+Traceback (most recent call last):
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 234, in <module>
+    raw_df = load_and_clean_data(args.input)
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 203, in load_and_clean_data
+    df = validate_raw_data(df)
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 57, in validate_raw_data
+    df['action'] = df['action'].apply(clean_action)
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\series.py", line 4924, in apply
+    ).apply()
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 1427, in apply
+    return self.apply_standard()
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 1507, in apply_standard
+    mapped = obj._map_values(
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\base.py", line 921, in _map_values
+    return algorithms.map_array(arr, mapper, na_action=na_action, convert=convert)
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\algorithms.py", line 1743, in map_array
+    return lib.map_infer(values, mapper, convert=convert)
+  File "lib.pyx", line 2972, in pandas._libs.lib.map_infer
+TypeError: clean_action() takes 0 positional arguments but 1 was given
+2025-05-10 15:17:05,482 - __main__ - INFO - === Начало обработки данных ===
+2025-05-10 15:17:05,482 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-10 15:17:05,483 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-10 15:17:05,483 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-10 15:17:05,487 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-10 15:17:05,487 - __main__ - INFO - Начало валидации данных
+2025-05-10 15:17:05,487 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-10 15:17:05,494 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-10 15:17:05,496 - __main__ - ERROR - Ошибка загрузки данных: clean_action() takes 0 positional arguments but 1 was given
+2025-05-10 15:17:05,497 - __main__ - CRITICAL - Критическая ошибка: clean_action() takes 0 positional arguments but 1 was given
+Traceback (most recent call last):
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 234, in <module>
+    raw_df = load_and_clean_data(args.input)
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 203, in load_and_clean_data
+    df = validate_raw_data(df)
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 57, in validate_raw_data
+    df['action'] = df['action'].apply(clean_action)
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\series.py", line 4924, in apply
+    ).apply()
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 1427, in apply
+    return self.apply_standard()
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 1507, in apply_standard
+    mapped = obj._map_values(
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\base.py", line 921, in _map_values
+    return algorithms.map_array(arr, mapper, na_action=na_action, convert=convert)
+  File "C:\Users\Ксюша\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\algorithms.py", line 1743, in map_array
+    return lib.map_infer(values, mapper, convert=convert)
+  File "lib.pyx", line 2972, in pandas._libs.lib.map_infer
+TypeError: clean_action() takes 0 positional arguments but 1 was given
+2025-05-10 15:19:19,655 - __main__ - INFO - === Начало обработки данных ===
+2025-05-10 15:19:19,656 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-10 15:19:19,656 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-10 15:19:19,656 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-10 15:19:19,661 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-10 15:19:19,661 - __main__ - INFO - Начало валидации данных
+2025-05-10 15:19:19,661 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-10 15:19:19,668 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-10 15:19:19,672 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-10 15:19:19,672 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-10 15:19:20,466 - __main__ - INFO - Визуализация данных сохранена
+2025-05-10 15:19:20,470 - __main__ - INFO - Начало извлечения трасс
+2025-05-10 15:19:20,476 - __main__ - INFO - Создано 100 трасс
+2025-05-10 15:19:20,547 - __main__ - INFO - Успешно создано 100 трасс
+2025-05-10 15:19:20,556 - __main__ - INFO - Данные успешно сохранены в data/prepared_data.csv
+2025-05-10 15:19:20,557 - __main__ - INFO - 
+Статистика обработанных данных:
+2025-05-10 15:19:20,558 - __main__ - INFO - - Всего пациентов: 100
+2025-05-10 15:19:20,558 - __main__ - INFO - - Средняя длина трассы: 6.9 действий
+2025-05-10 15:19:20,559 - __main__ - INFO - - Средняя продолжительность: 9.6 дней
+2025-05-10 15:19:20,559 - __main__ - INFO - Обработка завершена успешно!
+2025-05-10 19:01:44,460 - __main__ - INFO - === Начало обработки данных ===
+2025-05-10 19:01:44,461 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-10 19:01:44,462 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-10 19:01:44,462 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-10 19:01:44,480 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-10 19:01:44,480 - __main__ - INFO - Начало валидации данных
+2025-05-10 19:01:44,480 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-10 19:01:44,489 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-10 19:01:44,497 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-10 19:01:44,498 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-10 19:01:44,541 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-10 19:01:45,360 - __main__ - INFO - Визуализация данных сохранена
+2025-05-10 19:01:45,372 - __main__ - INFO - Начало извлечения трасс
+2025-05-10 19:01:45,382 - __main__ - INFO - Создано 100 трасс
+2025-05-10 19:01:45,456 - __main__ - INFO - Успешно создано 100 трасс
+2025-05-10 19:01:45,463 - __main__ - INFO - Данные успешно сохранены в data/prepared_data.csv
+2025-05-10 19:01:45,463 - __main__ - INFO - 
+Статистика обработанных данных:
+2025-05-10 19:01:45,464 - __main__ - INFO - - Всего пациентов: 100
+2025-05-10 19:01:45,465 - __main__ - INFO - - Средняя длина трассы: 6.9 действий
+2025-05-10 19:01:45,465 - __main__ - INFO - - Средняя продолжительность: 9.6 дней
+2025-05-10 19:01:45,466 - __main__ - INFO - Обработка завершена успешно!
+2025-05-10 19:09:09,137 - __main__ - INFO - === Начало обработки данных ===
+2025-05-10 19:09:09,138 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-10 19:09:09,138 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-10 19:09:09,139 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-10 19:09:09,144 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-10 19:09:09,144 - __main__ - INFO - Начало валидации данных
+2025-05-10 19:09:09,144 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-10 19:09:09,152 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-10 19:09:09,160 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-10 19:09:09,161 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-10 19:09:09,195 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-10 19:09:10,514 - __main__ - INFO - Визуализация данных сохранена
+2025-05-10 19:09:10,515 - __main__ - INFO - Начало извлечения трасс
+2025-05-10 19:09:10,522 - __main__ - INFO - Создано 100 трасс
+2025-05-10 19:09:10,589 - __main__ - INFO - Успешно создано 100 трасс
+2025-05-10 19:09:10,595 - __main__ - INFO - Данные успешно сохранены в data/prepared_data.csv
+2025-05-10 19:09:10,595 - __main__ - INFO - 
+Статистика обработанных данных:
+2025-05-10 19:09:10,595 - __main__ - INFO - - Всего пациентов: 100
+2025-05-10 19:09:10,596 - __main__ - INFO - - Средняя длина трассы: 6.9 действий
+2025-05-10 19:09:10,597 - __main__ - INFO - - Средняя продолжительность: 9.6 дней
+2025-05-10 19:09:10,597 - __main__ - INFO - Обработка завершена успешно!
+2025-05-11 02:01:18,295 - __main__ - INFO - === Начало обработки данных ===
+2025-05-11 02:01:18,296 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-11 02:01:18,296 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-11 02:01:18,296 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-11 02:01:18,301 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-11 02:01:18,302 - __main__ - INFO - Начало валидации данных
+2025-05-11 02:01:18,302 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-11 02:01:18,311 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-11 02:01:18,317 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-11 02:01:18,317 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-11 02:01:18,348 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-11 02:01:19,591 - __main__ - INFO - Визуализация данных сохранена
+2025-05-11 02:01:19,591 - __main__ - INFO - Начало извлечения трасс
+2025-05-11 02:01:19,597 - __main__ - INFO - Создано 100 трасс
+2025-05-11 02:01:19,663 - __main__ - INFO - Успешно создано 100 трасс
+2025-05-11 02:01:19,668 - __main__ - INFO - Данные успешно сохранены в data/prepared_data.csv
+2025-05-11 02:01:19,669 - __main__ - INFO - 
+Статистика обработанных данных:
+2025-05-11 02:01:19,669 - __main__ - INFO - - Всего пациентов: 100
+2025-05-11 02:01:19,670 - __main__ - INFO - - Средняя длина трассы: 6.9 действий
+2025-05-11 02:01:19,671 - __main__ - INFO - - Средняя продолжительность: 9.6 дней
+2025-05-11 02:01:19,671 - __main__ - INFO - Обработка завершена успешно!
+2025-05-11 02:06:19,644 - __main__ - INFO - === Начало обработки данных ===
+2025-05-11 02:06:19,644 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-11 02:06:19,644 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-11 02:06:19,645 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-11 02:06:19,649 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-11 02:06:19,650 - __main__ - INFO - Начало валидации данных
+2025-05-11 02:06:19,650 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-11 02:06:19,657 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-11 02:06:19,662 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-11 02:06:19,663 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-11 02:06:19,696 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-11 02:06:20,947 - __main__ - INFO - Визуализация данных сохранена
+2025-05-11 02:06:20,948 - __main__ - INFO - Начало извлечения трасс
+2025-05-11 02:06:20,983 - __main__ - ERROR - Критическая ошибка при создании трасс: 'Timestamp' object has no attribute 'total_seconds'
+2025-05-11 02:06:20,985 - __main__ - ERROR - Нет данных для сохранения
+2025-05-11 02:06:20,985 - __main__ - ERROR - Ошибка при сохранении данных: Пустой DataFrame для сохранения
+2025-05-11 02:06:20,985 - __main__ - CRITICAL - Критическая ошибка: Пустой DataFrame для сохранения
+Traceback (most recent call last):
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 274, in <module>
+    save_clean_data(traces_df, args.output)
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 196, in save_clean_data
+    raise ValueError("Пустой DataFrame для сохранения")
+ValueError: Пустой DataFrame для сохранения
+2025-05-11 02:34:05,004 - __main__ - INFO - === Начало обработки данных ===
+2025-05-11 02:34:05,004 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-11 02:34:05,005 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-11 02:34:05,005 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-11 02:34:05,010 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-11 02:34:05,010 - __main__ - INFO - Начало валидации данных
+2025-05-11 02:34:05,010 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-11 02:34:05,016 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-11 02:34:05,022 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-11 02:34:05,023 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-11 02:34:05,053 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-11 02:34:06,244 - __main__ - INFO - Визуализация данных сохранена
+2025-05-11 02:34:06,244 - __main__ - INFO - Начало извлечения трасс
+2025-05-11 02:34:06,273 - __main__ - ERROR - Критическая ошибка при создании трасс: 'Timestamp' object has no attribute 'total_seconds'
+2025-05-11 02:34:06,274 - __main__ - ERROR - Нет данных для сохранения
+2025-05-11 02:34:06,275 - __main__ - ERROR - Ошибка при сохранении данных: Пустой DataFrame для сохранения
+2025-05-11 02:34:06,275 - __main__ - CRITICAL - Критическая ошибка: Пустой DataFrame для сохранения
+Traceback (most recent call last):
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 272, in <module>
+    save_clean_data(traces_df, args.output)
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 194, in save_clean_data
+    raise ValueError("Пустой DataFrame для сохранения")
+ValueError: Пустой DataFrame для сохранения
+2025-05-11 02:35:27,602 - __main__ - INFO - === Начало обработки данных ===
+2025-05-11 02:35:27,602 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-11 02:35:27,602 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-11 02:35:27,603 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-11 02:35:27,610 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-11 02:35:27,611 - __main__ - INFO - Начало валидации данных
+2025-05-11 02:35:27,611 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-11 02:35:27,620 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-11 02:35:27,626 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-11 02:35:27,627 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-11 02:35:27,672 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-11 02:35:28,973 - __main__ - INFO - Визуализация данных сохранена
+2025-05-11 02:35:28,974 - __main__ - INFO - Начало извлечения трасс
+2025-05-11 02:35:29,003 - __main__ - ERROR - Критическая ошибка при создании трасс: 'Timestamp' object has no attribute 'total_seconds'
+2025-05-11 02:35:29,005 - __main__ - ERROR - Нет данных для сохранения
+2025-05-11 02:35:29,005 - __main__ - ERROR - Ошибка при сохранении данных: Пустой DataFrame для сохранения
+2025-05-11 02:35:29,005 - __main__ - CRITICAL - Критическая ошибка: Пустой DataFrame для сохранения
+Traceback (most recent call last):
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 272, in <module>
+    save_clean_data(traces_df, args.output)
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 194, in save_clean_data
+    raise ValueError("Пустой DataFrame для сохранения")
+ValueError: Пустой DataFrame для сохранения
+2025-05-11 02:35:50,204 - __main__ - INFO - === Начало обработки данных ===
+2025-05-11 02:35:50,204 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-11 02:35:50,205 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-11 02:35:50,205 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-11 02:35:50,209 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-11 02:35:50,210 - __main__ - INFO - Начало валидации данных
+2025-05-11 02:35:50,210 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-11 02:35:50,219 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-11 02:35:50,224 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-11 02:35:50,225 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-11 02:35:50,254 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-11 02:35:51,445 - __main__ - INFO - Визуализация данных сохранена
+2025-05-11 02:35:51,446 - __main__ - INFO - Начало извлечения трасс
+2025-05-11 02:35:51,475 - __main__ - ERROR - Критическая ошибка при создании трасс: 'Timestamp' object has no attribute 'total_seconds'
+2025-05-11 02:35:51,476 - __main__ - ERROR - Нет данных для сохранения
+2025-05-11 02:35:51,477 - __main__ - ERROR - Ошибка при сохранении данных: Пустой DataFrame для сохранения
+2025-05-11 02:35:51,477 - __main__ - CRITICAL - Критическая ошибка: Пустой DataFrame для сохранения
+Traceback (most recent call last):
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 272, in <module>
+    save_clean_data(traces_df, args.output)
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 194, in save_clean_data
+    raise ValueError("Пустой DataFrame для сохранения")
+ValueError: Пустой DataFrame для сохранения
+2025-05-11 02:37:17,357 - __main__ - INFO - === Начало обработки данных ===
+2025-05-11 02:37:17,358 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-11 02:37:17,358 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-11 02:37:17,359 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-11 02:37:17,364 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-11 02:37:17,364 - __main__ - INFO - Начало валидации данных
+2025-05-11 02:37:17,364 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-11 02:37:17,372 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-11 02:37:17,378 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-11 02:37:17,379 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-11 02:37:17,410 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-11 02:37:18,613 - __main__ - INFO - Визуализация данных сохранена
+2025-05-11 02:37:18,614 - __main__ - INFO - Начало извлечения трасс
+2025-05-11 02:37:18,641 - __main__ - ERROR - Критическая ошибка при создании трасс: 'Timestamp' object has no attribute 'total_seconds'
+2025-05-11 02:37:18,642 - __main__ - ERROR - Нет данных для сохранения
+2025-05-11 02:37:18,643 - __main__ - ERROR - Ошибка при сохранении данных: Пустой DataFrame для сохранения
+2025-05-11 02:37:18,643 - __main__ - CRITICAL - Критическая ошибка: Пустой DataFrame для сохранения
+Traceback (most recent call last):
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 260, in <module>
+    save_clean_data(traces_df, args.output)
+  File "C:\Users\Ксюша\Desktop\Crazy\5v\data_processing\preprocess.py", line 182, in save_clean_data
+    raise ValueError("Пустой DataFrame для сохранения")
+ValueError: Пустой DataFrame для сохранения
+2025-05-11 02:39:39,800 - __main__ - INFO - === Начало обработки данных ===
+2025-05-11 02:39:39,800 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-11 02:39:39,800 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-11 02:39:39,801 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-11 02:39:39,805 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-11 02:39:39,805 - __main__ - INFO - Начало валидации данных
+2025-05-11 02:39:39,805 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-11 02:39:39,811 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-11 02:39:39,818 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-11 02:39:39,818 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-11 02:39:39,854 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-11 02:39:41,073 - __main__ - INFO - Визуализация данных сохранена
+2025-05-11 02:39:41,073 - __main__ - INFO - Начало извлечения трасс
+2025-05-11 02:39:41,107 - __main__ - INFO - Успешно создано 100 трасс
+2025-05-11 02:39:41,124 - __main__ - INFO - Данные успешно сохранены в data/prepared_data.csv
+2025-05-11 02:39:41,125 - __main__ - INFO - 
+Статистика обработанных данных:
+2025-05-11 02:39:41,126 - __main__ - INFO - - Всего пациентов: 100
+2025-05-11 02:39:41,127 - __main__ - INFO - - Средняя длина трассы: 6.9 действий
+2025-05-11 02:39:41,127 - __main__ - INFO - - Средняя продолжительность: 9.6 дней
+2025-05-11 02:39:41,127 - __main__ - INFO - Обработка завершена успешно!
+2025-05-11 02:40:10,211 - __main__ - INFO - === Начало обработки данных ===
+2025-05-11 02:40:10,211 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-11 02:40:10,211 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-11 02:40:10,212 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-11 02:40:10,216 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-11 02:40:10,217 - __main__ - INFO - Начало валидации данных
+2025-05-11 02:40:10,217 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-11 02:40:10,223 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-11 02:40:10,228 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-11 02:40:10,229 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-11 02:40:10,261 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-11 02:40:11,517 - __main__ - INFO - Визуализация данных сохранена
+2025-05-11 02:40:11,518 - __main__ - INFO - Начало извлечения трасс
+2025-05-11 02:40:11,552 - __main__ - INFO - Успешно создано 100 трасс
+2025-05-11 02:40:11,567 - __main__ - INFO - Данные успешно сохранены в data/prepared_data.csv
+2025-05-11 02:40:11,567 - __main__ - INFO - 
+Статистика обработанных данных:
+2025-05-11 02:40:11,568 - __main__ - INFO - - Всего пациентов: 100
+2025-05-11 02:40:11,569 - __main__ - INFO - - Средняя длина трассы: 6.9 действий
+2025-05-11 02:40:11,569 - __main__ - INFO - - Средняя продолжительность: 9.6 дней
+2025-05-11 02:40:11,569 - __main__ - INFO - Обработка завершена успешно!
+2025-05-12 02:12:58,403 - __main__ - INFO - === Начало обработки данных ===
+2025-05-12 02:12:58,403 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-12 02:12:58,403 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-12 02:12:58,404 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-12 02:12:58,409 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-12 02:12:58,409 - __main__ - INFO - Начало валидации данных
+2025-05-12 02:12:58,410 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-12 02:12:58,417 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-12 02:12:58,425 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-12 02:12:58,426 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-12 02:12:58,457 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-12 02:12:59,750 - __main__ - INFO - Визуализация данных сохранена
+2025-05-12 02:12:59,751 - __main__ - INFO - Начало извлечения трасс
+2025-05-12 02:12:59,787 - __main__ - INFO - Успешно создано 100 трасс
+2025-05-12 02:12:59,802 - __main__ - INFO - Данные успешно сохранены в data/prepared_data.csv
+2025-05-12 02:12:59,802 - __main__ - INFO - 
+Статистика обработанных данных:
+2025-05-12 02:12:59,802 - __main__ - INFO - - Всего пациентов: 100
+2025-05-12 02:12:59,805 - __main__ - INFO - - Средняя длина трассы: 6.9 действий
+2025-05-12 02:12:59,806 - __main__ - INFO - - Средняя продолжительность: 9.6 дней
+2025-05-12 02:12:59,807 - __main__ - INFO - Обработка завершена успешно!
+2025-05-12 23:54:44,502 - __main__ - INFO - === Начало обработки данных ===
+2025-05-12 23:54:44,503 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-12 23:54:44,503 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-12 23:54:44,504 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-12 23:54:44,509 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-12 23:54:44,510 - __main__ - INFO - Начало валидации данных
+2025-05-12 23:54:44,510 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-12 23:54:44,520 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-12 23:54:44,527 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-12 23:54:44,527 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-12 23:54:44,569 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-12 23:54:45,954 - __main__ - INFO - Визуализация данных сохранена
+2025-05-12 23:54:45,954 - __main__ - INFO - Начало извлечения трасс
+2025-05-12 23:54:45,994 - __main__ - INFO - Успешно создано 100 трасс
+2025-05-12 23:54:46,014 - __main__ - INFO - Данные успешно сохранены в data/prepared_data.csv
+2025-05-12 23:54:46,015 - __main__ - INFO - 
+Статистика обработанных данных:
+2025-05-12 23:54:46,016 - __main__ - INFO - - Всего пациентов: 100
+2025-05-12 23:54:46,017 - __main__ - INFO - - Средняя длина трассы: 6.9 действий
+2025-05-12 23:54:46,017 - __main__ - INFO - - Средняя продолжительность: 9.6 дней
+2025-05-12 23:54:46,017 - __main__ - INFO - Обработка завершена успешно!
+2025-05-14 23:50:00,947 - __main__ - INFO - === Начало обработки данных ===
+2025-05-14 23:50:00,947 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-14 23:50:00,947 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-14 23:50:00,947 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-14 23:50:00,993 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-14 23:50:00,993 - __main__ - INFO - Начало валидации данных
+2025-05-14 23:50:01,011 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-14 23:50:01,027 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-14 23:50:01,044 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-14 23:50:01,047 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-14 23:50:01,093 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-14 23:50:03,154 - __main__ - INFO - Визуализация данных сохранена
+2025-05-14 23:50:03,154 - __main__ - INFO - Начало извлечения трасс
+2025-05-14 23:50:03,191 - __main__ - INFO - Успешно создано 100 трасс
+2025-05-14 23:50:03,206 - __main__ - INFO - Данные успешно сохранены в data/prepared_data.csv
+2025-05-14 23:50:03,206 - __main__ - INFO - 
+Статистика обработанных данных:
+2025-05-14 23:50:03,207 - __main__ - INFO - - Всего пациентов: 100
+2025-05-14 23:50:03,208 - __main__ - INFO - - Средняя длина трассы: 6.9 действий
+2025-05-14 23:50:03,208 - __main__ - INFO - - Средняя продолжительность: 9.6 дней
+2025-05-14 23:50:03,208 - __main__ - INFO - Обработка завершена успешно!
+2025-05-15 00:22:41,201 - __main__ - INFO - === Начало обработки данных ===
+2025-05-15 00:22:41,201 - __main__ - INFO - Входной файл: data/Hospital.csv
+2025-05-15 00:22:41,201 - __main__ - INFO - Выходной файл: data/prepared_data.csv
+2025-05-15 00:22:41,201 - __main__ - INFO - Загрузка данных из data/Hospital.csv
+2025-05-15 00:22:41,210 - __main__ - INFO - Успешно загружено с кодировкой utf-8-sig
+2025-05-15 00:22:41,210 - __main__ - INFO - Начало валидации данных
+2025-05-15 00:22:41,210 - __main__ - INFO - Данные до очистки: 690 записей
+2025-05-15 00:22:41,216 - __main__ - INFO - Пример данных:
+     patient         action org:resource             DateTime
+0  patient 0  First consult     Dr. Anna  2017-01-02 11:40:11
+1  patient 0     Blood test          Lab  2017-01-02 12:47:33
+2  patient 0  Physical test  Nurse Jesse  2017-01-02 12:53:50
+2025-05-15 00:22:41,223 - __main__ - INFO - Данные после очистки: 690 записей
+2025-05-15 00:22:41,227 - __main__ - INFO - Уникальных пациентов: 100
+2025-05-15 00:22:41,257 - __main__ - INFO - Распределение пациентов по врачам:
+org:resource
+Dr. Anna       158
+Lab            100
+Dr. Bob         92
+Pharmacy        80
+Nurse Jesse     57
+Dr. Ben         50
+Team 2          50
+Nurse Corey     43
+Team 1          40
+Dr. Rudy         7
+Dr. Charlie      5
+Dr. Alex         5
+Dr. Quinn        3
+Name: count, dtype: int64
+2025-05-15 00:22:42,800 - __main__ - INFO - Визуализация данных сохранена
+2025-05-15 00:22:42,800 - __main__ - INFO - Начало извлечения трасс
+2025-05-15 00:22:42,823 - __main__ - INFO - Успешно создано 100 трасс
+2025-05-15 00:22:42,838 - __main__ - INFO - Данные успешно сохранены в data/prepared_data.csv
+2025-05-15 00:22:42,838 - __main__ - INFO - 
+Статистика обработанных данных:
+2025-05-15 00:22:42,838 - __main__ - INFO - - Всего пациентов: 100
+2025-05-15 00:22:42,838 - __main__ - INFO - - Средняя длина трассы: 6.9 действий
+2025-05-15 00:22:42,838 - __main__ - INFO - - Средняя продолжительность: 9.6 дней
+2025-05-15 00:22:42,838 - __main__ - INFO - Обработка завершена успешно!

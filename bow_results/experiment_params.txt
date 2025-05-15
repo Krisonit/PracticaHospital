@@ -1,0 +1,3 @@
+Метод векторизации: bow
+Параметры HDBSCAN: {'min_cluster_size': 2, 'min_samples': 2, 'cluster_selection_epsilon': 0.0, 'cluster_selection_method': 'eom', 'metric': 'euclidean'}
+Размерность данных: (100, 31)

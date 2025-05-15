@@ -1,0 +1,9 @@
+action,test,p_value,significant
+First consult,chi-squared,1.0,False
+Blood test,chi-squared,1.0,False
+X-ray scan,chi-squared,1.0,False
+Physical test,chi-squared,1.0,False
+Second consult,chi-squared,1.0,False
+Medicine,chi-squared,0.03788536273407832,True
+Final consult,chi-squared,1.0,False
+Surgery,chi-squared,6.956254569243833e-06,True
